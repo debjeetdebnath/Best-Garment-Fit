@@ -3,6 +3,7 @@ import numpy as np
 
 df1 = pd.read_json(r'C:\Users\debje\Downloads\dataset.json',lines=True) 
 df1.head()
+#download the dataset from here - https://drive.google.com/file/d/1w2Wvj6Go8MhMaW42NI2EBuwRLm1KHARJ/view?usp=sharing
 
 df1.shape
 
